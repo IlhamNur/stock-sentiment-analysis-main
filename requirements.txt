@@ -1,0 +1,10 @@
+pyyaml
+numpy
+pandas
+requests
+searchtweets
+yfinance
+matplotlib
+tensorflow
+scikit-learn
+notebook
